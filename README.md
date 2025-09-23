@@ -7,7 +7,7 @@
 本工具集提供了两种主要功能：
 
 1. **剧情脚本处理** - 以`bgi`开头的文件用于处理游戏的主要剧情脚本
-   - bgidis.py: 剧情脚本反汇编器（目前测试支持`bss`和`bs5`后缀的脚本文件）
+   - bgidis.py: 剧情脚本反汇编器（该版本目前测试支持`bs5`的脚本文件，`bss`版本请以樱之诗分支（等代码上传）为基础）
    - bgias.py: 剧情脚本汇编器
 
 2. **系统脚本处理** - 以`bp`开头的文件用于处理BGI引擎的系统脚本
@@ -81,4 +81,5 @@ python bpas.py <文件名.bpd>
 renpy：
 
  - [樱之诗](https://github.com/Imavoyc/Sakuranouta-RenPy-Part1)
+
 
