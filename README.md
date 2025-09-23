@@ -76,8 +76,9 @@ python bpas.py <文件名.bpd>
 
 [MIT](https://github.com/KlparetlR/Bgi_asdis/blob/main/LICENSE)
 
-## 引擎跨移植实例
+## 跨引擎移植实例
 
 renpy：
 
  - [樱之诗](https://github.com/Imavoyc/Sakuranouta-RenPy-Part1)
+
