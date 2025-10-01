@@ -82,5 +82,6 @@ renpy：
 
  - [樱之诗](https://github.com/Imavoyc/Sakuranouta-RenPy-Part1)
 
- - [巧克甜恋3]([https://github.com/Imavoyc/Sakuranouta-RenPy-Part1](https://github.com/KlparetlR/amachoco3-RenPy))
+ - [巧克甜恋3](https://github.com/KlparetlR/amachoco3-RenPy)
+
 
