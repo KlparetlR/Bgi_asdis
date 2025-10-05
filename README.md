@@ -84,4 +84,5 @@ renpy：
 
  - [巧克甜恋3](https://github.com/KlparetlR/amachoco3-RenPy)
 
+ - [向日葵的教会与长长的暑假](https://www.bilibili.com/video/BV1MTxtzkE2Z/)
 
