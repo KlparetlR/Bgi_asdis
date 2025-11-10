@@ -82,7 +82,8 @@ renpy：
 
  - [樱之诗](https://github.com/Imavoyc/Sakuranouta-RenPy-Part1)
 
- - [巧克甜恋3](https://github.com/KlparetlR/amachoco3-RenPy)
+ - [巧克甜恋3](https://b23.tv/RtmlI9c)
 
  - [向日葵的教会与长长的暑假](https://www.bilibili.com/video/BV1MTxtzkE2Z/)
+
 
